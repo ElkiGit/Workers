@@ -1,0 +1,51 @@
+D:\רחלי תכנות ו\פרקטיקום\EmployeesServer\EmployeesServer.Data\bin\Debug\net6.0\EmployeesServer.Data.deps.json
+D:\רחלי תכנות ו\פרקטיקום\EmployeesServer\EmployeesServer.Data\bin\Debug\net6.0\EmployeesServer.Data.runtimeconfig.json
+D:\רחלי תכנות ו\פרקטיקום\EmployeesServer\EmployeesServer.Data\bin\Debug\net6.0\EmployeesServer.Data.dll
+D:\רחלי תכנות ו\פרקטיקום\EmployeesServer\EmployeesServer.Data\bin\Debug\net6.0\EmployeesServer.Data.pdb
+D:\רחלי תכנות ו\פרקטיקום\EmployeesServer\EmployeesServer.Data\bin\Debug\net6.0\EmployeesServer.Core.dll
+D:\רחלי תכנות ו\פרקטיקום\EmployeesServer\EmployeesServer.Data\bin\Debug\net6.0\EmployeesServer.Core.pdb
+D:\רחלי תכנות ו\פרקטיקום\EmployeesServer\EmployeesServer.Data\obj\Debug\net6.0\EmployeesServer.Data.csproj.AssemblyReference.cache
+D:\רחלי תכנות ו\פרקטיקום\EmployeesServer\EmployeesServer.Data\obj\Debug\net6.0\EmployeesServer.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\רחלי תכנות ו\פרקטיקום\EmployeesServer\EmployeesServer.Data\obj\Debug\net6.0\EmployeesServer.Data.AssemblyInfoInputs.cache
+D:\רחלי תכנות ו\פרקטיקום\EmployeesServer\EmployeesServer.Data\obj\Debug\net6.0\EmployeesServer.Data.AssemblyInfo.cs
+D:\רחלי תכנות ו\פרקטיקום\EmployeesServer\EmployeesServer.Data\obj\Debug\net6.0\EmployeesServer.Data.csproj.CoreCompileInputs.cache
+D:\רחלי תכנות ו\פרקטיקום\EmployeesServer\EmployeesServer.Data\obj\Debug\net6.0\EmployeesServer.Data.csproj.CopyComplete
+D:\רחלי תכנות ו\פרקטיקום\EmployeesServer\EmployeesServer.Data\obj\Debug\net6.0\EmployeesServer.Data.dll
+D:\רחלי תכנות ו\פרקטיקום\EmployeesServer\EmployeesServer.Data\obj\Debug\net6.0\refint\EmployeesServer.Data.dll
+D:\רחלי תכנות ו\פרקטיקום\EmployeesServer\EmployeesServer.Data\obj\Debug\net6.0\EmployeesServer.Data.pdb
+D:\רחלי תכנות ו\פרקטיקום\EmployeesServer\EmployeesServer.Data\obj\Debug\net6.0\EmployeesServer.Data.genruntimeconfig.cache
+D:\רחלי תכנות ו\פרקטיקום\EmployeesServer\EmployeesServer.Data\obj\Debug\net6.0\ref\EmployeesServer.Data.dll
+C:\Users\9090\Desktop\EmployeesServer\EmployeesServer.Data\bin\Debug\net6.0\EmployeesServer.Data.deps.json
+C:\Users\9090\Desktop\EmployeesServer\EmployeesServer.Data\bin\Debug\net6.0\EmployeesServer.Data.runtimeconfig.json
+C:\Users\9090\Desktop\EmployeesServer\EmployeesServer.Data\bin\Debug\net6.0\EmployeesServer.Data.dll
+C:\Users\9090\Desktop\EmployeesServer\EmployeesServer.Data\bin\Debug\net6.0\EmployeesServer.Data.pdb
+C:\Users\9090\Desktop\EmployeesServer\EmployeesServer.Data\bin\Debug\net6.0\EmployeesServer.Core.dll
+C:\Users\9090\Desktop\EmployeesServer\EmployeesServer.Data\bin\Debug\net6.0\EmployeesServer.Core.pdb
+C:\Users\9090\Desktop\EmployeesServer\EmployeesServer.Data\obj\Debug\net6.0\EmployeesServer.Data.csproj.AssemblyReference.cache
+C:\Users\9090\Desktop\EmployeesServer\EmployeesServer.Data\obj\Debug\net6.0\EmployeesServer.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\9090\Desktop\EmployeesServer\EmployeesServer.Data\obj\Debug\net6.0\EmployeesServer.Data.AssemblyInfoInputs.cache
+C:\Users\9090\Desktop\EmployeesServer\EmployeesServer.Data\obj\Debug\net6.0\EmployeesServer.Data.AssemblyInfo.cs
+C:\Users\9090\Desktop\EmployeesServer\EmployeesServer.Data\obj\Debug\net6.0\EmployeesServer.Data.csproj.CoreCompileInputs.cache
+C:\Users\9090\Desktop\EmployeesServer\EmployeesServer.Data\obj\Debug\net6.0\EmployeesServer.Data.csproj.CopyComplete
+C:\Users\9090\Desktop\EmployeesServer\EmployeesServer.Data\obj\Debug\net6.0\EmployeesServer.Data.dll
+C:\Users\9090\Desktop\EmployeesServer\EmployeesServer.Data\obj\Debug\net6.0\refint\EmployeesServer.Data.dll
+C:\Users\9090\Desktop\EmployeesServer\EmployeesServer.Data\obj\Debug\net6.0\EmployeesServer.Data.pdb
+C:\Users\9090\Desktop\EmployeesServer\EmployeesServer.Data\obj\Debug\net6.0\EmployeesServer.Data.genruntimeconfig.cache
+C:\Users\9090\Desktop\EmployeesServer\EmployeesServer.Data\obj\Debug\net6.0\ref\EmployeesServer.Data.dll
+C:\Users\User\Desktop\תכנות\פרקטיקום\Racheli Server\Practikum\EmployeesServer.Data\bin\Debug\net6.0\EmployeesServer.Data.deps.json
+C:\Users\User\Desktop\תכנות\פרקטיקום\Racheli Server\Practikum\EmployeesServer.Data\bin\Debug\net6.0\EmployeesServer.Data.runtimeconfig.json
+C:\Users\User\Desktop\תכנות\פרקטיקום\Racheli Server\Practikum\EmployeesServer.Data\bin\Debug\net6.0\EmployeesServer.Data.dll
+C:\Users\User\Desktop\תכנות\פרקטיקום\Racheli Server\Practikum\EmployeesServer.Data\bin\Debug\net6.0\EmployeesServer.Data.pdb
+C:\Users\User\Desktop\תכנות\פרקטיקום\Racheli Server\Practikum\EmployeesServer.Data\bin\Debug\net6.0\EmployeesServer.Core.dll
+C:\Users\User\Desktop\תכנות\פרקטיקום\Racheli Server\Practikum\EmployeesServer.Data\bin\Debug\net6.0\EmployeesServer.Core.pdb
+C:\Users\User\Desktop\תכנות\פרקטיקום\Racheli Server\Practikum\EmployeesServer.Data\obj\Debug\net6.0\EmployeesServer.Data.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\תכנות\פרקטיקום\Racheli Server\Practikum\EmployeesServer.Data\obj\Debug\net6.0\EmployeesServer.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\תכנות\פרקטיקום\Racheli Server\Practikum\EmployeesServer.Data\obj\Debug\net6.0\EmployeesServer.Data.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\תכנות\פרקטיקום\Racheli Server\Practikum\EmployeesServer.Data\obj\Debug\net6.0\EmployeesServer.Data.AssemblyInfo.cs
+C:\Users\User\Desktop\תכנות\פרקטיקום\Racheli Server\Practikum\EmployeesServer.Data\obj\Debug\net6.0\EmployeesServer.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\תכנות\פרקטיקום\Racheli Server\Practikum\EmployeesServer.Data\obj\Debug\net6.0\EmployeesServer.Data.csproj.CopyComplete
+C:\Users\User\Desktop\תכנות\פרקטיקום\Racheli Server\Practikum\EmployeesServer.Data\obj\Debug\net6.0\EmployeesServer.Data.dll
+C:\Users\User\Desktop\תכנות\פרקטיקום\Racheli Server\Practikum\EmployeesServer.Data\obj\Debug\net6.0\refint\EmployeesServer.Data.dll
+C:\Users\User\Desktop\תכנות\פרקטיקום\Racheli Server\Practikum\EmployeesServer.Data\obj\Debug\net6.0\EmployeesServer.Data.pdb
+C:\Users\User\Desktop\תכנות\פרקטיקום\Racheli Server\Practikum\EmployeesServer.Data\obj\Debug\net6.0\EmployeesServer.Data.genruntimeconfig.cache
+C:\Users\User\Desktop\תכנות\פרקטיקום\Racheli Server\Practikum\EmployeesServer.Data\obj\Debug\net6.0\ref\EmployeesServer.Data.dll
